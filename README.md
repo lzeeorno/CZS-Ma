@@ -1,5 +1,5 @@
-# RDZMamba-Rapid-Diagonal-Zigzag-Mamba-Network-for-Medical-Image-Segmentation
-Rapid Diagonal Zigzag Mamba Network for Medical Image Segmentation
+# CZS-Ma: Comprehensive Zigzag Scan Mamba Network for Precise and Efficient Segmentation
+
 
 ## 0. Main Environments
 
@@ -62,7 +62,7 @@ Alternatively, you can use Autodl to quickly get started. Select `state-spaces/m
 
 
 
-## 3. Train the RDZMamba
+## 3. Train the CZS-Mamba
 ```bash
 cd RDZMamba-Rapid-Diagonal-Zigzag-Mamba-Network-for-Medical-Image-Segmentation-master
 python train.py  # Train and test RDZMamba on the ISIC17 or ISIC18 dataset.
